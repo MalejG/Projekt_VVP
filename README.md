@@ -11,15 +11,15 @@ Na počátku bude nutné nadefinovat popis cívky – tvaru donut :) a veličinu
 Výstupem budou vizualizace matic a jeji prúrezy.
 
 ## 2 Funcionality
-    1. Načtení a definice geometrie cívky
-        - [ ] třída pro načtení parametrů závitu cívky.
-        - [ ] definice cívky v kódu (donut) 
-    2. Výpočet magnetického pole
-        - [ ] Implementace výpočtu podle Biot-Savartova zákona.
-        - [ ] Sestavení výsledné matice.
-    3. Uložení a extrakce výsledků
-        - [ ] Ukládání výsledné matice magnetického pole do formátu (HDF5).
-        - [ ] Třída pro řezání 
-    4. Vizualizace
-        - [ ] Vytvoření třídy pro vizualizaci 2D a  3D (matplotlib)
-        - [ ] Generování obrázků 
+1. Načtení a definice geometrie cívky
+    - [ ] třída pro načtení parametrů závitu cívky.
+    - [ ] definice cívky v kódu (donut) 
+2. Výpočet magnetického pole
+    - [ ] Implementace výpočtu podle Biot-Savartova zákona.
+    - [ ] Sestavení výsledné matice.
+3. Uložení a extrakce výsledků
+    - [ ] Ukládání výsledné matice magnetického pole do formátu (HDF5).
+    - [ ] Třída pro řezání 
+4. Vizualizace
+    - [ ] Vytvoření třídy pro vizualizaci 2D a  3D (matplotlib)
+    - [ ] Generování obrázků 
